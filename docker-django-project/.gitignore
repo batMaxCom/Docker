@@ -1,0 +1,5 @@
+.idea
+venv
+.env
+measurement/__pycache__
+smart_home/__pycache__
